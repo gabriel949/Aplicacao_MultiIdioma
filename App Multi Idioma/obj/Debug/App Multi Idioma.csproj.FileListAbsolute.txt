@@ -1,0 +1,39 @@
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.exe.config
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.exe
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.pdb
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\bin\Debug\en-GB\App Multi Idioma.resources.dll
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\bin\Debug\fr-FR\App Multi Idioma.resources.dll
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.csprojResolveAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.en-GB.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.fr-FR.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.en-GB.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.fr-FR.resources
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.csproj.GenerateResource.Cache
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\en-GB\App Multi Idioma.resources.dll
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\fr-FR\App Multi Idioma.resources.dll
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.exe
+C:\Users\guilh\OneDrive\Documentos\2º Periodo\P.O\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.pdb
+C:\Users\USER\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.exe.config
+C:\Users\USER\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.exe
+C:\Users\USER\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.pdb
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.exe.config
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.exe
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\App Multi Idioma.pdb
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\en-GB\App Multi Idioma.resources.dll
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\bin\Debug\fr-FR\App Multi Idioma.resources.dll
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.csprojResolveAssemblyReference.cache
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Properties.Resources.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.en-GB.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.frmMI.fr-FR.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.en-GB.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App_Multi_Idioma.Mensagem.fr-FR.resources
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.csproj.GenerateResource.Cache
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\en-GB\App Multi Idioma.resources.dll
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\fr-FR\App Multi Idioma.resources.dll
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.exe
+C:\Users\depau\Documents\PUC-Minas\POO\App Multi Idioma\App Multi Idioma\obj\Debug\App Multi Idioma.pdb
